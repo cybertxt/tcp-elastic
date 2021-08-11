@@ -75,6 +75,6 @@ static void __exit elastic_unregister(void)
 module_init(elastic_register);
 module_exit(elastic_unregister);
 
-MODULE_AUTHOR("Xie Tao <cxxtao@gmail.com>");
+MODULE_AUTHOR("xtao<cxxtao@gmail.com>");
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Elastic TCP");
